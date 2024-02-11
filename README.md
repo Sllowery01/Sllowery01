@@ -22,9 +22,3 @@
 
 - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/a89e2714-0afb-432e-ae1d-fc9dedd2606b/public_url)
 - [CompTIA Security+ ce Certification](https://www.credly.com/badges/6729281b-d454-467d-ab95-d845b147d410/public_url)
-
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: www.linkedin.com/in/sierra-l-37abb649
